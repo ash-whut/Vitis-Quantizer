@@ -1,0 +1,20 @@
+# Ignore everything
+/*
+
+# Unignore the .gitignore file itself
+!.gitignore
+
+# Unignore the README.md file
+!/README.md
+
+# Unignore the Tutorials directory and its contents
+!/Tutorials/
+!/Tutorials/**
+
+# Misc
+**/vai_c*
+**/__pycache__
+**/.ipynb_checkpoints
+**/learner_logs
+**/errors.txt
+**/resnet_checkpoints
