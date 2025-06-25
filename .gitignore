@@ -18,3 +18,4 @@
 **/learner_logs
 **/errors.txt
 **/resnet_checkpoints
+**/*.npy
